@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Thomas Van Wynendaele</h1>
-<h3 align="center">A passionate full-stack devevelopmentloper from India</h3>
+<h3 align="center">A passionate full-stack deveveloper</h3>
 
 - 🔭 I’m currently student in **Telecom Saint-Etienne**
 
