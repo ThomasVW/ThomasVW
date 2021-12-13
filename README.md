@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently student in **Telecom Saint-Etienne**
 
-- 🌱 I’m currently learning **Angular framework / .NET**
+- 🌱 I’m currently learning **Angular VueJS ReactNative .NET  **
 
 - 👯 **I am looking for a developer contact who could help me increase my experience through projects or company internships.**
 
